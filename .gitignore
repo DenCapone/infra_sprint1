@@ -164,4 +164,3 @@ yarn-error.log*
 node_modules
 **/node_modules
 /backend/static_backend
-frontend
