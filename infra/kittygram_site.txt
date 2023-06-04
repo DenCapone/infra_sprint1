@@ -1,0 +1,5 @@
+IP: 158.160.64.70;
+name_taski: https://kittyden.ddns.net;
+name_kittygram: https://kittydenis.zapto.org;
+login: Dencapone;
+password: D388188s; 
